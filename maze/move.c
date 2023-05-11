@@ -1,4 +1,4 @@
-#include "move ¤±.h"
+#include "move.h"
 
 /*int x = 40;
 int y = 5;
@@ -16,7 +16,7 @@ int main()
 }
 
    
-void Move¤±()
+void Move()
 {
     int nkey;
     if (_kbhit)

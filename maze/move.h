@@ -1,4 +1,4 @@
-//move ¤±.h
+//move.h
 #ifndef HEADER
 #define HEADER
 
@@ -16,7 +16,7 @@
 
 void GotoXY(int x, int y);
 void CursorView(char show);
-void Move¤±();
+void Move();
 void printl();
 
 

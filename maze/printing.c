@@ -1,17 +1,17 @@
-#include "print け.h"
+#include "printing.h"
 
 /*int main()
 {
     CursorView(0);
     while (1)
     {
-        PrintDownけ();
-        PrintUpけ();
+        PrintDown();
+        PrintUp();
     }
     return 0;
 }
 
-void PrintDownけ()
+void PrintDown()
 {
     int i = 5;
     while (i < 30)
@@ -26,7 +26,7 @@ void PrintDownけ()
     //xp 40 yp = 5
 }
 
-void PrintUpけ()
+void PrintUp()
 {
     int i = 30;
     while (i > 4)

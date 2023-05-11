@@ -1,4 +1,4 @@
-//print ¤±.h
+//printing.h
 #ifndef HEADER
 #define HEADER
 
@@ -9,8 +9,8 @@
 
 void GotoXY(int x, int y);
 void CursorView(char show);
-void PrintDown¤±();
-void PrintUp¤±();
+void PrintDown();
+void PrintUp();
 
 
 #endif
